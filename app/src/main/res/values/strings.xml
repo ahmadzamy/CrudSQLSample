@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Favourite Cars</string>
+    <string name="edit" translatable="false">edit</string>
+</resources>
